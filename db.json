@@ -1,0 +1,36 @@
+{
+  "tasks": [
+    {
+      "subject": "vencimento",
+      "description": "kkk",
+      "status": 1,
+      "dateOverdue": "2022-05-19",
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "subject": "ssdfasd",
+      "description": "asdfasdf",
+      "status": 1,
+      "dateOverdue": "",
+      "userId": 2,
+      "id": 9
+    }
+  ],
+  "users": [
+    {
+      "name": "teste1234",
+      "email": "teste1234@1234.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "id": 1
+    },
+    {
+      "name": "joão",
+      "email": "teste2@2.com",
+      "password": "1234567",
+      "confirmPassword": "1234567",
+      "id": 2
+    }
+  ]
+}
